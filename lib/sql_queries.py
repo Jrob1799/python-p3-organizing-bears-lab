@@ -38,3 +38,6 @@ select_youngest_bear_and_returns_name_and_age = """
     ORDER BY age ASC 
     LIMIT 1
 """
+
+def empty_func():
+    pass
